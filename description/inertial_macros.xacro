@@ -35,6 +35,4 @@
                     izz="${(1/2) * mass * (radius*radius)}" />
         </inertial>
     </xacro:macro>
-
-
 </robot>
